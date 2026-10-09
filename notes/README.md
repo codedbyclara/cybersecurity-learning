@@ -51,3 +51,18 @@ All practical activities will be performed in authorized environments, respectin
   <br />
   <sub>Building skills. Breaking nothing without permission. 💜💚</sub>
 </p>
+
+## 💻 `>_` SYSTEM STATUS
+
+```text
+[+] Currently learning: Cybersecurity Fundamentals
+[+] Exploring: Linux | Networking | Python
+[+] Focus: Security & Secure Development
+[+] Status: Always learning...
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-39FF14?style=flat-square&labelColor=0D0D12" alt="Status: Learning" />
+  <img src="https://img.shields.io/badge/ACCESS-ETHICAL-A855F7?style=flat-square&labelColor=0D0D12" alt="Ethical learning" />
+</p>
+
