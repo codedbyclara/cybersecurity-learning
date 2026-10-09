@@ -1,5 +1,11 @@
 # 💜 `codedbyclara` // Cybersecurity Learning
 
+![Linux](https://img.shields.io/badge/Linux-0D0D12?style=for-the-badge\&logo=linux\&logoColor=39FF14)
+![Python](https://img.shields.io/badge/Python-0D0D12?style=for-the-badge\&logo=python\&logoColor=39FF14)
+![Networking](https://img.shields.io/badge/Networking-0D0D12?style=for-the-badge\&logo=cisco\&logoColor=A855F7)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0D0D12?style=for-the-badge\&logo=kalilinux\&logoColor=A855F7)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D12,50:6D28D9,100:39FF14&height=180&section=header&text=CYBERSECURITY%20LAB&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&stroke=39FF14&strokeWidth=1" width="100%" alt="Cybersecurity Learning neon banner" />
 </p>
