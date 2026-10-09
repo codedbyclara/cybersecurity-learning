@@ -66,3 +66,14 @@ All practical activities will be performed in authorized environments, respectin
   <img src="https://img.shields.io/badge/ACCESS-ETHICAL-A855F7?style=flat-square&labelColor=0D0D12" alt="Ethical learning" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D12&height=3&section=footer&stroke=39FF14&strokeWidth=1" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <code>01000011 01001111 01000100 01000101</code>
+  <br />
+  <sub><b>CODE. LEARN. SECURE.</b></sub>
+  <br />
+  <sub>Made with 💜 and a little bit of terminal green.</sub>
+</p>
